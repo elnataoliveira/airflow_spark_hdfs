@@ -16,7 +16,6 @@ Containers:
 - [Spark](http://150.136.179.71:7077) - spark-master container
 - [Namenode](http://150.136.179.71:9870) - namenode master container
 
-
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
