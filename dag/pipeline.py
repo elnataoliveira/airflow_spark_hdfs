@@ -37,7 +37,7 @@ def unpack_files(input_folder: str, output_folder: str):
             print('file name: ' + f)
             archive = py7zr.SevenZipFile(f, mode='r')
             archive.extractall(path=output_folder)
-            #archive.close()
+            archive.close()
 
 #etl
 def etl_to_hdfs(files: str):
