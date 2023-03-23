@@ -1,7 +1,5 @@
 # Pipeline with Airflow, Spark and Hadoop
-## _ftp://ftp.mtps.gov.br/pdet/microdadosr_
-
-[![N|Solid](https://raw.githubusercontent.com/elnataoliveira/airflow_spark_hdfs/main/static/img/_Fluxograma.svg)]
+####  _Data Source: ftp://ftp.mtps.gov.br/pdet/microdadosr_
 
 [![Build Status](https://raw.githubusercontent.com/elnataoliveira/airflow_spark_hdfs/main/static/img/_Fluxograma.svg)](https://raw.githubusercontent.com/elnataoliveira/airflow_spark_hdfs/main/static/img/_Fluxograma.svg)
 
