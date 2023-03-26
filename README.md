@@ -8,6 +8,13 @@
 - Realizar a ingestão dos dados de VÍNCULOS PÚBLICOS da RAIS 2020
 - Transformar os dados no formato parquet e escrevê-los na zona staging ou zona silver do seu Data Lake
 
+|-- [2.8G]  RAIS_VINC_PUB_CENTRO_OESTE.txt
+|-- [6.2G]  RAIS_VINC_PUB_MG_ES_RJ.txt
+|-- [5.2G]  RAIS_VINC_PUB_NORDESTE.txt
+|-- [1.7G]  RAIS_VINC_PUB_NORTE.txt
+|-- [8.6G]  RAIS_VINC_PUB_SP.txt
+|-- [5.5G]  RAIS_VINC_PUB_SUL.txt
+    [30.G]  total
 ## Tech
 
 Containers:
